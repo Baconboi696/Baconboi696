@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PremPatil
 - 👀 I’m interested in Full stack development, Machine learning and Design Enthusiast.
-- 🌱 I’m currently learning Blender,Unreal Engine.
+- 🌱 I’m currently learning Blender,Unreal Engine, Full Stack, Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prempatil0696@gmail.com 
 - 😄 Pronouns: He/Him
